@@ -15,6 +15,14 @@ Utilize OpenAI APIs to create a contextual knowledge base, employ GPT-based quer
 [![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)  
 [![Pinecone](https://img.shields.io/badge/Pinecone-42a5f5?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 
+## Screenshots
+
+<img width="367" alt="image" src="https://github.com/anirudhajoshi2808/RAG_Based_Book_Recommendation_Chatbot/assets/114356265/6437a393-e97c-45bc-85ae-04c986d9fc6a">
+
+<img width="281" alt="image" src="https://github.com/anirudhajoshi2808/RAG_Based_Book_Recommendation_Chatbot/assets/114356265/1782daeb-6a57-4d46-88cb-a0d33dd04b77">
+
+<img width="323" alt="image" src="https://github.com/anirudhajoshi2808/RAG_Based_Book_Recommendation_Chatbot/assets/114356265/87107229-1106-4ad9-96ec-c12b2cf8bdea">
+
 ## Project Tasks
   
 ### Step 1: Initial Setup and API Integration
