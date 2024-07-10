@@ -1,0 +1,9 @@
+streamlit
+pinecone-client
+langchain
+sentence-transformers
+openai
+requests
+streamlit-chat
+langchain-community
+langchain-huggingface
