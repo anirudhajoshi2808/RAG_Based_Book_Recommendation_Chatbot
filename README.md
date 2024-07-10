@@ -6,7 +6,7 @@ Development of a conversational chatbot for recommending books based on user-spe
 ## Project Goals
 Utilize OpenAI APIs to create a contextual knowledge base, employ GPT-based query processing, and provide accurate book recommendations.
 
-[Demo Video](#) 
+[Demo Video](https://www.youtube.com/watch?v=L49exYRqNF8&ab_channel=AnirudhaJoshi) 
 
 ## Technologies Used
 
